@@ -262,10 +262,12 @@ a:hover {
 .red-btn:hover {
   text-decoration: underline;
 }
+.footer-block{
+   background: #fafafa;
+   float: left;
+}
 .footer-blocks {
-  float: left;
   margin: 100px 0;
-  background: #fafafa;
   color: #101010;
 }
 .footer-block__title {
