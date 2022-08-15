@@ -366,6 +366,9 @@ a:hover {
   }
 }
 @media (max-width: 600px) {
+  .wrap{
+  min-height:0;
+  }
   .header-content h1 {
     font-size: calc(80% + 25px);
   }
