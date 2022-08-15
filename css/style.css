@@ -426,6 +426,7 @@ a:hover {
   }
   .footer-blocks{
     text-align:center;
-    float:none;
   }
+    .footer-block{
+      float:none;}
 }
