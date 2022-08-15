@@ -267,7 +267,7 @@ a:hover {
    float: left;
 }
 .footer-blocks {
-  margin: 100px 0;
+  padding: 100px 0;
   color: #101010;
 }
 .footer-block__title {
