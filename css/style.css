@@ -424,4 +424,8 @@ a:hover {
     width: 80%;
     margin: 0;
   }
+  .footer-blocks{
+    text-align:center;
+    float:none;
+  }
 }
